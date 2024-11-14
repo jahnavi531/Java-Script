@@ -7,5 +7,5 @@ let product = {           //group of key : values pairs - js object
 }
 
 console.log(size)           //object
-console.log(color)    //object
+console.log(color)             //object
 console.log(product)           //object

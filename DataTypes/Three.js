@@ -1,4 +1,4 @@
-var brand = true;
+var brand = true;                           
 var availability;
 console.log(brand)
 console.log(availability)

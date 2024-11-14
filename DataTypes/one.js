@@ -1,7 +1,7 @@
 //creating variable
-var price = 309;
-var rating = 3.9;
-var product_Name = "Men Slim Fit Solid Spread Collar Formal Shirt"
+var price = 309;                        //number
+var rating = 3.9;                      //number
+var product_Name = "Men Slim Fit Solid Spread Collar Formal Shirt"    //String name
 var brand = "MILDIN"
 //reading variable
 console.log(price)
@@ -14,3 +14,9 @@ console.log(typeof price)
 console.log(typeof rating)
 console.log(typeof product_Name)
 console.log(typeof brand)
+//update
+var price = 203;
+
+
+//Delete 
+delete rating;
